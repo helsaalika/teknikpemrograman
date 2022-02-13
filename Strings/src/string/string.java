@@ -28,3 +28,11 @@ public class string {
 	}
 
 }
+
+/*
+ * Komentar Program
+ * Pada program ini membuat dua buah inputan string dengan ketentuan lowercase, 
+ * lalu dua string tersebut dijumlahkan panjang hurufnya dan menentukan apakah 
+ * string yang pertama lebih dulu secara lexicographically dari string kedua apa 
+ * tidak serta masing-masing string huruf awalan nya diubah menjadi kapital 
+ */
