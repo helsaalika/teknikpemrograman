@@ -36,3 +36,12 @@ public class DataTypes {
 	}
 
 }
+
+/*
+ *  Komentar Program
+ *  Program ini menjalankan inputan yang masuk bisa diolah di tipe data mana saja, tipe data
+ *  yang tersedia yaitu short, integer, dan long. Inputan di tampung pada array dengan tipe data
+ *  string lalu diconvert ke long untuk menentukan tipe data yang bisa digunakan. Ada
+ *  penggunakan try and catch juga pada  inputan yang tidak bisa di convert ke long.
+ *  
+ */
